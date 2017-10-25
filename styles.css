@@ -3,6 +3,8 @@
   *::after{
   box-sizing: border-box;
 }
+a { text-decoration: none;}
+
 .one {
   background-color: black;
   color: white;
@@ -11,18 +13,29 @@
   margin-left: 5%;
   margin-right: 5%;
 }
+
 .half{
-  background-color: turquoise;
-  text-align: left;
-  margin-left: 15%;
-  margin-right: 15%;
-  padding: 20px;
-  font-weight: 900;
-  font-size: 25px
- }
-.gg{
-  border-bottom: 6px solid orange;
+background-color: turquoise;
+text-align: left;
+margin-left: 15%;
+margin-right: 15%;
+padding: 10px;
+font-weight: 900;
+font-size: 25px;
 }
-.three{
-  border-
+
+.gg{
+border-bottom: 3px solid orange;
+}
+
+.ff{
+  text-align: center;
+  display: inline-block;
+  padding: 20px;
+  background-color:lightgrey;
+}
+
+.purp{
+  text-align: center;
+  padding: 0px 10px 10px 10px;
 }
