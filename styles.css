@@ -77,3 +77,38 @@ span.charlie {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+span.gama {
+    margin-right: 17px;
+    margin-left: -2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: yellow;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+span.beta {
+    margin-left: 60px;
+    margin-right: 0px;
+    background: yellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+span.foxtrot {
+    margin-right: 43px;
+    margin-left: 77px;
+    background: yellow;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+span.echo {
+    border-right: 1px black solid;
+    padding-right: 4px;
+}
